@@ -1,0 +1,31 @@
+* {
+    font-family: Calibri, sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(29, 29, 29);
+}
+
+header{
+    background-color: silver;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0px;
+}
+
+div {
+    padding: 10px;
+    margin: 0 250px;
+    background-color: silver;
+}
+
