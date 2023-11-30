@@ -29,3 +29,9 @@ div {
     background-color: silver;
 }
 
+a {
+    font-family: Calibri, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+}
